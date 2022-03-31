@@ -42,7 +42,6 @@ main {
   flex-flow: row wrap;
   justify-content: center;
   align-items: center;
-  margin: 20vmin 0px;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -101,7 +100,15 @@ button:hover {
 }
 
 @media screen and (orientation: portrait) and (max-width: 600px) {
+  body {
+    overflow-x: hidden;
+  }
   main {
     flex-flow: column;
+    margin: 20vmin 0px;
+  }
+  section {
+    min-width: 300px;
+    width: 85vw;
   }
 }
