@@ -30,7 +30,7 @@ This is my solution to the [3-column preview card component challenge on Fronten
 
 ### Links
 
-You can see a working version at [https://mateus3009.github.io/frontend/](https://mateus3009.github.io/frontend/)
+You can see a working version at [https://mateus3009.github.io/3-column-preview-card-component/](https://mateus3009.github.io/3-column-preview-card-component/)
 
 ## My process
 
